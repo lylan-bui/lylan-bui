@@ -1,7 +1,7 @@
 ## Hi, I'm Lylan!
 
-<img src="./icons/ncstate.svg" height="16" style="vertical-align: middle;" /> &nbsp; North Carolina State University (Class of 2027)<br />
-<img src="./icons/book.svg" height="16" style="vertical-align: middle;" /> &nbsp; Computer Science major, Data Science in Business minor
+<img src="./icons/ncstate.svg" height="18" style="vertical-align: middle;" /> &nbsp; North Carolina State University (Class of 2027)<br />
+<img src="./icons/book.svg" height="18" style="vertical-align: middle;" /> &nbsp; Computer Science major, Data Science in Business minor
 - Music enthusiast
 - Concert photographer for fun!
 
