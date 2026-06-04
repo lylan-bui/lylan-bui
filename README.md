@@ -12,13 +12,23 @@
 ## Hi, I'm Lylan!
 
 <img src="./icons/ncstate.svg" height="18" style="vertical-align: middle;" /> &nbsp; North Carolina State University (Class of 2027)<br />
-<img src="./icons/book.svg" height="18" style="vertical-align: middle;" /> &nbsp; Computer Science major, Data Science in Business minor<br />
+<img src="./icons/book.svg" height="18" style="vertical-align: middle;" /> &nbsp; Computer Science major + Data Science in Business minor<br />
 <img src="./icons/camera.svg" height="18" style="vertical-align: middle;" /> &nbsp; Concert photographer for fun! Check out my [`photography portfolio`](https://lylan.myportfolio.com/)
 
 <div align="center">
 . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
 </div>
 
+## If it involves...
+<img src="./icons/checkbox.svg" height="18" style="vertical-align: middle;" /> &nbsp; data<br />
+<img src="./icons/checkbox.svg" height="18" style="vertical-align: middle;" /> &nbsp; media<br />
+<img src="./icons/checkbox.svg" height="18" style="vertical-align: middle;" /> &nbsp; technology<br />
+<img src="./icons/checkbox.svg" height="18" style="vertical-align: middle;" /> &nbsp; entertainment<br />
+## count me in!
+
+<div align="center">
+. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
+</div>
 <!--
 **lylan-bui/lylan-bui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
