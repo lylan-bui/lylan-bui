@@ -1,5 +1,6 @@
 ## Hi, I'm Lylan!
-<div align="center" style="font-size: 300px;"/> . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
+<div align="center">
+  . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
 </div>
 
 <img src="./icons/ncstate.svg" height="18" style="vertical-align: middle;" /> &nbsp; North Carolina State University (Class of 2027)<br />
