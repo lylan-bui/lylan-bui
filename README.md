@@ -1,5 +1,5 @@
 ## Hi, I'm Lylan!
-<div align="center" style="font-size: 30px;">
+<div align="center" style="font-size: 300px;">
 . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
 </div>
 
