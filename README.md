@@ -3,6 +3,7 @@
 - **North Carolina State University** (Class of 2027)
   - B.S. Computer Science, Data Science in Business minor
 - Music enthusiast
+- Concert photographer for fun!
 
 <!--
 **lylan-bui/lylan-bui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
