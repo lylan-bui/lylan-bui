@@ -2,6 +2,7 @@
 <div align="center">
   . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
 </div>
+</div>
 
 <img src="./icons/ncstate.svg" height="18" style="vertical-align: middle;" /> &nbsp; North Carolina State University (Class of 2027)<br />
 <img src="./icons/book.svg" height="18" style="vertical-align: middle;" /> &nbsp; Computer Science major, Data Science in Business minor<br />
