@@ -19,12 +19,12 @@
 . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
 </div>
 
-## If it involves...
+# If it involves...
 <img src="./icons/checkbox.svg" height="18" style="vertical-align: middle;" /> &nbsp; data<br />
 <img src="./icons/checkbox.svg" height="18" style="vertical-align: middle;" /> &nbsp; media<br />
 <img src="./icons/checkbox.svg" height="18" style="vertical-align: middle;" /> &nbsp; technology<br />
 <img src="./icons/checkbox.svg" height="18" style="vertical-align: middle;" /> &nbsp; entertainment<br />
-## count me in!
+# count me in!
 
 <div align="center">
 . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
